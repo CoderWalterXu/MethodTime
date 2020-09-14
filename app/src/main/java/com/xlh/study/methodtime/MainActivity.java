@@ -4,14 +4,9 @@ import androidx.appcompat.app.AppCompatActivity;
 
 import android.content.Intent;
 import android.os.Bundle;
-import android.os.SystemClock;
 import android.view.View;
 
 import com.xlh.study.methodtime.annotation.Time;
-import com.xlh.study.methodtime.dynamicproxy.IMethodTime;
-import com.xlh.study.methodtime.dynamicproxy.MethodTimeHandler;
-
-import java.lang.reflect.Proxy;
 
 public class MainActivity extends AppCompatActivity {
 

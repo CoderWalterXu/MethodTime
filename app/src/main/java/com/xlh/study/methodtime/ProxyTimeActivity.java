@@ -3,7 +3,6 @@ package com.xlh.study.methodtime;
 import android.os.Bundle;
 
 import com.xlh.study.methodtime.annotation.ProxyTime;
-import com.xlh.study.methodtime.annotation.Time;
 import com.xlh.study.methodtime.dynamicproxy.IMethodTime;
 import com.xlh.study.methodtime.dynamicproxy.MethodTimeHandler;
 
