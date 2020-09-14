@@ -1,11 +1,6 @@
 package com.xlh.study.methodtime.aspectj;
 
-import android.app.Activity;
-import android.app.Fragment;
-import android.content.Context;
 import android.util.Log;
-import android.view.View;
-import android.widget.Toast;
 
 import org.aspectj.lang.ProceedingJoinPoint;
 import org.aspectj.lang.Signature;
